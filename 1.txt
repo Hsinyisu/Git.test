@@ -4,6 +4,4 @@ Today is Mar. 2023.
 Hoping that I can do all fine.
 
 
-This is a Branch.1 file now.
-I'ii do some change under this branch and try to merge it into master.
-
+This is a Branch.2 and I'll make some change in Git.Hub.
